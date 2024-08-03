@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3ZhwZSYu2"
-#define BLYNK_TEMPLATE_NAME "LED on and off"
-#define BLYNK_AUTH_TOKEN "uH1rq8HdKK96VImb7Ar7IQPq7YdkgBbi"
+#define BLYNK_TEMPLATE_ID " " // Enter Your BLYNK_TEMPLATE_ID 
+#define BLYNK_TEMPLATE_NAME " "// Enter your BLYNK_TEMPLATE _NAME
+#define BLYNK_AUTH_TOKEN " " //Enter your BLYNK_AUTH_TOKEN
 
 #include <WiFi.h>
 #include <WiFiClient.h>
